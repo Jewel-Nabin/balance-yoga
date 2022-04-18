@@ -1,0 +1,19 @@
+.page-name {
+    margin-top: 45px;
+}
+
+.page-name > h2 {
+    text-decoration: none;
+}
+
+.balance {
+    color: #ED90B7;
+}
+
+.yoga {
+    color: #952A88;
+}
+
+.linkText {
+    color: #952A88;
+}
